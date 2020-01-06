@@ -111,11 +111,11 @@ License: https://themeforest.net/licenses/standard
 		// 		transition: 'fade',
 		// 		transitionDuration: 1000,
 		// 		slides: [
-		// 			{ src: 'demo/images/image-12.jpg' },
-		// 			{ src: 'demo/images/image-2.jpg' },
-		// 			{ src: 'demo/images/image-3.jpg' },
-		// 			{ src: 'demo/images/image-4.jpg' },
-  //                   { src: 'demo/images/image-5.jpg' }
+		// 			{ src: 'images/main-banner/image-12.jpg' },
+		// 			{ src: 'images/main-banner/image-2.jpg' },
+		// 			{ src: 'images/main-banner/image-3.jpg' },
+		// 			{ src: 'images/main-banner/image-4.jpg' },
+  //                   { src: 'images/main-banner/image-5.jpg' }
 		// 		]
 		// 	});
 		// }
@@ -130,11 +130,11 @@ License: https://themeforest.net/licenses/standard
 		// 		transition: 'zoomOut',
 		// 		transitionDuration: 4000,
 		// 		slides: [
-		// 			{ src: 'demo/images/image-12.jpg' },
-		// 			{ src: 'demo/images/image-2.jpg' },
-		// 			{ src: 'demo/images/image-3.jpg' },
-		// 			{ src: 'demo/images/image-4.jpg' },
-		// 			{ src: 'demo/images/image-5.jpg' }
+		// 			{ src: 'images/main-banner/image-12.jpg' },
+		// 			{ src: 'images/main-banner/image-2.jpg' },
+		// 			{ src: 'images/main-banner/image-3.jpg' },
+		// 			{ src: 'images/main-banner/image-4.jpg' },
+		// 			{ src: 'images/main-banner/image-5.jpg' }
 		// 		]
 		// 	});
 		// }
@@ -150,11 +150,11 @@ License: https://themeforest.net/licenses/standard
 				transitionDuration: 1000,
 				slides: [
 
-					{ src: 'demo/images/image-2.jpg' },
-					{ src: 'demo/images/image-3.jpg' },
-					{ src: 'demo/images/image-4.jpg' },
-					{ src: 'demo/images/image-6.jpg' },
-					{ src: 'demo/images/image-12.jpg' }
+					{ src: 'images/main-banner/banner01.jpg' },
+					{ src: 'images/main-banner/banner02.jpg' },
+					{ src: 'images/main-banner/banner03.jpg' },
+					{ src: 'images/main-banner/banner04.jpg' },
+					// { src: 'images/main-banner/banner01.jpg' }
 
 				]
 			});
@@ -166,10 +166,10 @@ License: https://themeforest.net/licenses/standard
 
 		// 	var kenburnsDisplayBackdrops = false;
 		// 	var kenburnsBackgrounds = [
-		// 		{ src: 'demo/images/image-2.jpg', valign: 'top' },
-		// 		{ src: 'demo/images/image-3.jpg', valign: 'top' },
-		// 		{ src: 'demo/images/image-9.jpg', valign: 'top' },
-		// 		{ src: 'demo/images/image-10.jpg', valign: 'top' }
+		// 		{ src: 'images/main-banner/image-2.jpg', valign: 'top' },
+		// 		{ src: 'images/main-banner/image-3.jpg', valign: 'top' },
+		// 		{ src: 'images/main-banner/image-9.jpg', valign: 'top' },
+		// 		{ src: 'images/main-banner/image-10.jpg', valign: 'top' }
 		// 	];
 
 		// 	body.vegas({
